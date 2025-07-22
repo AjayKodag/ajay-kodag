@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ajay-kodag/static/css/main.dbf67944.css",
-    "main.js": "/ajay-kodag/static/js/main.d1818eda.js",
+    "main.js": "/ajay-kodag/static/js/main.2c74b200.js",
     "static/js/453.c1be1d65.chunk.js": "/ajay-kodag/static/js/453.c1be1d65.chunk.js",
     "index.html": "/ajay-kodag/index.html",
     "main.dbf67944.css.map": "/ajay-kodag/static/css/main.dbf67944.css.map",
-    "main.d1818eda.js.map": "/ajay-kodag/static/js/main.d1818eda.js.map",
+    "main.2c74b200.js.map": "/ajay-kodag/static/js/main.2c74b200.js.map",
     "453.c1be1d65.chunk.js.map": "/ajay-kodag/static/js/453.c1be1d65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbf67944.css",
-    "static/js/main.d1818eda.js"
+    "static/js/main.2c74b200.js"
   ]
 }
